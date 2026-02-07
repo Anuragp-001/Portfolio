@@ -162,7 +162,7 @@ export const DATA = {
       dates: "Feb 2023",
       location: "NIT Raipur",
       description:
-        "Secured First Position at National Science Exhibition 2023 (NIT Raipur) at Vigyaan — the National Science Exhibition under Aavartan'23, Central India's largest tech fest hosted by NIT Raipur. Our project is a remotely operated surveillance bot built using Arduino, a motor shield, an ultrasound detector, and Bluetooth communication, enabling unmanned deployment in high-risk border zones to protect soldiers' lives.",
+        "Secured First Position at National Science Exhibition 2023 (NIT Raipur) at Vigyaan — the National Science Exhibition under Aavartan'23, Central India's largest tech fest hosted by NIT Raipur. Our project is a remotely operated surveillance bot built using Arduino, a motor shield, an ultrasound detector, and Bluetooth communication, enabling unmanned deployment in high-risk border zones to protect soldiers' lives. ",
       image: "/aavarten.jpg",
       links: [
         {
